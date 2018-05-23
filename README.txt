@@ -1,2 +1,4 @@
 Hello, git
-Well, I changed my mind  
+Well, I changed my mind 
+newline
+
